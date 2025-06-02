@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@stripe/stripe-js": "^7.3.0",
-    "@tailwindcss/vite": "^4.1.7",
+    "@tailwindcss/vite": "^4.1.8",
     "axios": "^1.8.4",
     "framer-motion": "^12.10.0",
     "jspdf": "^3.0.1",
