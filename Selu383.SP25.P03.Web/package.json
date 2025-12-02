@@ -10,8 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@stripe/stripe-js": "^7.3.0",
-    "@tailwindcss/vite": "^4.1.16",
+    "@stripe/stripe-js": "^8.1.0",
+    "@tailwindcss/vite": "^4.1.7",
     "axios": "^1.8.4",
     "framer-motion": "^12.10.0",
     "jspdf": "^3.0.1",
