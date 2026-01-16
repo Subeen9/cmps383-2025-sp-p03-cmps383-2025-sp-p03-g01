@@ -13,7 +13,7 @@
     "@stripe/stripe-js": "^8.1.0",
     "@tailwindcss/vite": "^4.1.7",
     "axios": "^1.8.4",
-    "framer-motion": "^12.10.0",
+    "framer-motion": "^12.23.25",
     "jspdf": "^3.0.1",
     "lucide-react": "^0.479.0",
     "qrcode.react": "^4.2.0",
